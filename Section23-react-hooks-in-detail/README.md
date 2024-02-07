@@ -28,7 +28,7 @@ Explore a practical example of deploying a React app, following the deployment s
 
 ## 386. Server-side Routing & Required Configuration
 
-Learn about server-side routing and the necessary configurations required for deploying React apps to different hosting environments.
+Learn about server-side routing and the necessary configurations required for deploying React apps to different hosting environments .
 
 ---
 
