@@ -82,7 +82,7 @@ Explore how to re-trigger animations using keys to create interactive and respon
 
 ### 506. Scroll-based Animations
 
-Learn how to create scroll-based animations to add depth and interactivity to your React applications.
+Learn how to create scroll-based animations to add depth and interactivity to your React applications .
 
 ---
 
