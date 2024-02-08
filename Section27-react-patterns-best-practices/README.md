@@ -50,4 +50,4 @@ Learn about debouncing and how to apply it in React applications to optimize per
 
 ---
 
-## Next Section: [Section 26: Animating React Apps](/Section26-animating-react-apps)
+## Next Section: [Section 28: Testing React Applications](/Section28-testing-react-applications)
